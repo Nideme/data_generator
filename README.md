@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project provides a sophisticated script utilizing the LangChain framework to parse, understand, and enrich e-commerce product data from various formats (CSV, XLSX, XML) and output the enriched data in a structured JSON format. The goal is to facilitate the creation of a well-organized, structured database suitable for e-commerce systems.
+This project provides a  script utilizing the LangChain framework to parse, understand, and enrich e-commerce product data from various formats (CSV, XLSX, XML) and output the enriched data in a structured JSON format. The goal is to facilitate the creation of a well-organized, structured database suitable for e-commerce systems.
 
 ## Features
 
